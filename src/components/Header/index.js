@@ -7,14 +7,16 @@ import styles from "./styles.module.css";
 export default () => (
   <header className={styles.Header}>
     <Container className={styles.Container}>
-      <span className={styles.Logo}>Gatsby</span>
+      <span className={styles.Logo}>Svijet oko nas</span>
       <Nav>
         <NavLink to="/" exact="true">
-          Home
+          Naslovnica
         </NavLink>
-        <NavLink to="/second-page">Second page</NavLink>
+        <NavLink to="/kultura">Kultura</NavLink>
+        <NavLink to="/zivotinje">Životinje</NavLink>
+        <NavLink to="/putovanja">Putovanja</NavLink>
+        <NavLink to="/zanimljivosti">Zanimljivosti</NavLink>
         <NavLink to="/blog">Blog</NavLink>
-        <NavLink to="/about">About</NavLink>
       </Nav>
     </Container>
   </header>

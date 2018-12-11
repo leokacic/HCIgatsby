@@ -5,11 +5,6 @@
         "path": "/"
     },
     {
-        "componentChunkName": "component---src-pages-about-js",
-        "jsonName": "about-f34",
-        "path": "/about/"
-    },
-    {
         "componentChunkName": "component---src-pages-blog-js",
         "jsonName": "blog-f7a",
         "path": "/blog/"
@@ -45,8 +40,33 @@
         "path": "/dev-404-page/"
     },
     {
+        "componentChunkName": "component---src-pages-kultura-js",
+        "jsonName": "kultura-9c8",
+        "path": "/kultura/"
+    },
+    {
+        "componentChunkName": "component---src-pages-naslovna-js",
+        "jsonName": "naslovna-131",
+        "path": "/naslovna/"
+    },
+    {
+        "componentChunkName": "component---src-pages-putovanja-js",
+        "jsonName": "putovanja-530",
+        "path": "/putovanja/"
+    },
+    {
         "componentChunkName": "component---src-pages-second-page-js",
         "jsonName": "second-page-1c7",
         "path": "/second-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-zanimljivosti-js",
+        "jsonName": "zanimljivosti-9db",
+        "path": "/zanimljivosti/"
+    },
+    {
+        "componentChunkName": "component---src-pages-zivotinje-js",
+        "jsonName": "zivotinje-e18",
+        "path": "/zivotinje/"
     }
 ]

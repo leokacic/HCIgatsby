@@ -47,8 +47,57 @@
   margin-left: 10px;
 }
 
+.NavLink:nth-child(1){
+  border-bottom: 3px solid orange;
+}
+
+.NavLink:nth-child(2){
+  border-bottom: 3px solid blue;
+}
+
+.NavLink:nth-child(3){
+  border-bottom: 3px solid yellow;
+}
+
+.NavLink:nth-child(4){
+  border-bottom: 3px solid red;
+}
+
+.NavLink:nth-child(5){
+  border-bottom: 3px solid green;
+}
+
+.NavLink:nth-child(6){
+  border-bottom: 3px solid lightblue;
+}
+
 .NavLink__active,
-.NavLink:hover {
+.NavLink:nth-child(1):hover {
   color: var(--color-gold, orange);
   border-bottom: 3px solid var(--color-gold, orange);
+}
+
+.NavLink:nth-child(2):hover {
+  color:  blue;
+  border-bottom: 3px solid blue;
+}
+
+.NavLink:nth-child(3):hover {
+  color: red;
+  border-bottom: 3px solid yellow;
+}
+
+.NavLink:nth-child(3):hover {
+  color: red;
+  border-bottom: 3px solid red;
+}
+
+.NavLink:nth-child(3):hover {
+  color: red;
+  border-bottom: 3px solid green;
+}
+
+.NavLink:nth-child(3):hover {
+  color: red;
+  border-bottom: 3px solid lightblue;
 }
