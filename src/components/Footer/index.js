@@ -4,6 +4,6 @@ import styles from "./styles.module.css";
 
 export default () => (
   <footer className={styles.Footer}>
-    <Container className={styles.Container}>Footer</Container>
+    <Container className={styles.Container}>Copyright Leo Kacic HCI 2018</Container>
   </footer>
 );
