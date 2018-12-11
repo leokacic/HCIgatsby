@@ -4,9 +4,12 @@ import Nav from "./Nav";
 import NavLink from "./NavLink";
 import styles from "./styles.module.css";
 
+import logoImg from "../../images/logo.png"
+
 export default () => (
   <header className={styles.Header}>
     <Container className={styles.Container}>
+      <img src={logoImg} className={styles.Img} alt="Logo Svijet oko nas"/>
       <span className={styles.Logo}>Svijet oko nas</span>
       <Nav>
         <NavLink to="/" exact="true">

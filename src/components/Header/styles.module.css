@@ -20,6 +20,11 @@
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
+.Img{
+  width: 5%;
+  height: 5%;
+}
+
 .Nav {
   display: flex;
   flex-direction: row;

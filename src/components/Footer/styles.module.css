@@ -1,13 +1,81 @@
 .Footer {
-  margin-top: 1rem;
-  padding-bottom: 2rem;
-  font-size: 0.8rem;
+  border-top: 1px solid var(--color-grey, #000);
   text-align: center;
-  color: white;
-  background-color: black;
+  grid-area: footer;
+}
+.footerNavigation{
+  display: flex;
+  justify-content: space-between;
+  padding: 0.8rem;
 }
 
-.Container {
-  border-top: 1px solid var(--color-grey, #000);
-  background-color: black;
+#footerLeft{
+  margin-left: 15%;
+  width: 60%;
 }
+.footerList{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footerList li{
+  padding: 0.5rem;
+  list-style-type: none;
+}
+
+.footerList li a{
+  color: gray;
+}
+
+#footerRight{
+  width: 40%;
+  display: flex;
+}
+
+#footerRight p{
+  line-height: 33px;
+  margin-right: 7px;
+  color: black;
+
+}
+
+.svaPravaPridrzana{
+  font-size: 0-8em;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 600px)  {
+  #footerLeft{
+      margin-left: 0%;
+      width: auto;
+  }
+  #footerRight{
+      display: flex;
+      flex-direction: column;
+      width: auto;
+      padding-top: 10px;
+  }
+  .footerNavigation{
+      flex-direction: column;
+  }
+
+  .share_post{
+      align-self: center;
+  }
+}
+
+@media screen and  (max-width: 900px) and (min-width: 600px) {
+  #footerLeft{
+      margin-left: 0%; 
+      width: auto;   
+  }
+  #footerRight{
+      display: flex;
+      flex-direction: column;
+      width: auto;
+  }
+  #footerRight p{
+      text-align: initial;
+  }
+}
+
