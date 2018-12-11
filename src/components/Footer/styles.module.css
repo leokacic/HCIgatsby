@@ -27,19 +27,7 @@
   color: gray;
 }
 
-#footerRight{
-  width: 40%;
-  display: flex;
-}
-
-#footerRight p{
-  line-height: 33px;
-  margin-right: 7px;
-  color: black;
-
-}
-
-.svaPravaPridrzana{
+.Copyright{
   font-size: 0-8em;
   margin-bottom: 10px;
 }
@@ -49,18 +37,8 @@
       margin-left: 0%;
       width: auto;
   }
-  #footerRight{
-      display: flex;
-      flex-direction: column;
-      width: auto;
-      padding-top: 10px;
-  }
   .footerNavigation{
       flex-direction: column;
-  }
-
-  .share_post{
-      align-self: center;
   }
 }
 
@@ -68,14 +46,6 @@
   #footerLeft{
       margin-left: 0%; 
       width: auto;   
-  }
-  #footerRight{
-      display: flex;
-      flex-direction: column;
-      width: auto;
-  }
-  #footerRight p{
-      text-align: initial;
   }
 }
 

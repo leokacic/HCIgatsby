@@ -8,9 +8,12 @@ import logoImg from "../../images/logo.png"
 
 export default () => (
   <header className={styles.Header}>
-    <Container className={styles.Container}>
+    <Container className={styles.headerCenter}>
+      <span className={styles.headerLeft}> 
       <img src={logoImg} className={styles.Img} alt="Logo Svijet oko nas"/>
       <span className={styles.Logo}>Svijet oko nas</span>
+      </span>
+      
       <Nav>
         <NavLink to="/" exact="true">
           Naslovnica
