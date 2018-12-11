@@ -1,0 +1,2273 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c30feaa4de1b352bb56d93a34fd09353",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e9e82673d26529cd52bb14eef3c9e26c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b2dedece7777551dc26c7ab8f6239ae5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7fd9ebb30dd97a58b1e1cdbcf76c6971",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4a88e897d54615640299c2965b3247e6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1d49867340770e8dd4a9bc2495e712f1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "5af23374-0183-5f93-b26b-75371eece19d": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-source-filesystem",
+      "id": "5af23374-0183-5f93-b26b-75371eece19d",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:\\Users\\PC\\Desktop\\Moje\\hciblog/content/posts",
+        "name": "posts"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "dd635c0f7f8586cc6f8e77a6d380d6b0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8b57c075ae36c7c03886b607251f8ba4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "69b81135-25bb-5c69-b6e5-1b181986cfbb": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-transformer-remark",
+      "id": "69b81135-25bb-5c69-b6e5-1b181986cfbb",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.11",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-remark-images",
+            "id": "2847462d-e980-51b8-b45c-46ddefda4060",
+            "name": "gatsby-remark-images",
+            "version": "2.0.5",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 1000,
+              "linkImagesToOriginal": false,
+              "backgroundColor": "transparent",
+              "wrapperStyle": "",
+              "showCaptions": false,
+              "pathPrefix": "",
+              "withWebp": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-remark-images"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.11",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3c4d6565d0415d21feaaa192845b4a2a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "2847462d-e980-51b8-b45c-46ddefda4060": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-remark-images",
+      "id": "2847462d-e980-51b8-b45c-46ddefda4060",
+      "name": "gatsby-remark-images",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "$ref": "$[\"nodes\"][\"69b81135-25bb-5c69-b6e5-1b181986cfbb\"][\"pluginOptions\"][\"plugins\"][0][\"pluginOptions\"]"
+      },
+      "nodeAPIs": {
+        "$ref": "$[\"nodes\"][\"69b81135-25bb-5c69-b6e5-1b181986cfbb\"][\"pluginOptions\"][\"plugins\"][0][\"nodeAPIs\"]"
+      },
+      "browserAPIs": {
+        "$ref": "$[\"nodes\"][\"69b81135-25bb-5c69-b6e5-1b181986cfbb\"][\"pluginOptions\"][\"plugins\"][0][\"browserAPIs\"]"
+      },
+      "ssrAPIs": {
+        "$ref": "$[\"nodes\"][\"69b81135-25bb-5c69-b6e5-1b181986cfbb\"][\"pluginOptions\"][\"plugins\"][0][\"ssrAPIs\"]"
+      },
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9184add8b06be4cbd67382449a861447",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "a210d1e426e9625dd8d734ac1499d4e8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog",
+      "packageJson": {
+        "name": "gatsby-starter-hello-world",
+        "description": "Gatsby hello world starter",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "classnames",
+            "version": "^2.2.6"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.34"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.10"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.11"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "rimraf",
+            "version": "^2.6.2"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1eae1ecc074eb5b3d8a76dbe62e0504e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290": {
+      "resolve": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-plugin-page-creator",
+      "id": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.2",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:/Users/PC/Desktop/Moje/hciblog/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Moje/hciblog/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.2",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6fa42c19ed78c0552b13897fc0191f62",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "My first Gatsby application",
+        "description": "Hello, World!"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-12-11T13:10:02.886Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8c4998b4f48b703923f62c2b6fc1eeac",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "5b8a6993-2209-5ee9-81ee-7cca558c27f0": {
+      "id": "5b8a6993-2209-5ee9-81ee-7cca558c27f0",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "39d03c5b4175ee2aec9fdc1f84f299d5",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.436Z",
+      "accessTime": "2018-12-11T12:58:21.436Z",
+      "changeTime": "2018-12-11T12:58:21.436Z",
+      "birthTime": "2018-12-11T12:58:21.297Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655914,
+      "atime": "2018-12-11T12:58:21.436Z",
+      "mtime": "2018-12-11T12:58:21.436Z",
+      "ctime": "2018-12-11T12:58:21.436Z",
+      "birthtime": "2018-12-11T12:58:21.297Z"
+    },
+    "a5b6e5d8-2c1e-585c-99c4-c45babb20086": {
+      "id": "a5b6e5d8-2c1e-585c-99c4-c45babb20086",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c22837e7bad5dc830ac69b6d51e046e0",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\03-11-2018--post-5\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5",
+      "relativePath": "03-11-2018--post-5",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.375Z",
+      "accessTime": "2018-12-11T12:58:21.375Z",
+      "changeTime": "2018-12-11T12:58:21.375Z",
+      "birthTime": "2018-12-11T12:58:21.372Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
+      "base": "03-11-2018--post-5",
+      "ext": "",
+      "name": "03-11-2018--post-5",
+      "relativeDirectory": "",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655925,
+      "atime": "2018-12-11T12:58:21.375Z",
+      "mtime": "2018-12-11T12:58:21.375Z",
+      "ctime": "2018-12-11T12:58:21.375Z",
+      "birthtime": "2018-12-11T12:58:21.372Z"
+    },
+    "9fb52928-729d-568e-b6f6-5cd1c8e03d86": {
+      "id": "9fb52928-729d-568e-b6f6-5cd1c8e03d86",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "36126733241553450f256d0da01a1b6c",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\30-10-2018--hello-world\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world",
+      "relativePath": "30-10-2018--hello-world",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.397Z",
+      "accessTime": "2018-12-11T12:58:21.397Z",
+      "changeTime": "2018-12-11T12:58:21.397Z",
+      "birthTime": "2018-12-11T12:58:21.393Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
+      "base": "30-10-2018--hello-world",
+      "ext": "",
+      "name": "30-10-2018--hello-world",
+      "relativeDirectory": "",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655930,
+      "atime": "2018-12-11T12:58:21.397Z",
+      "mtime": "2018-12-11T12:58:21.397Z",
+      "ctime": "2018-12-11T12:58:21.397Z",
+      "birthtime": "2018-12-11T12:58:21.393Z"
+    },
+    "3e2df906-4e21-5336-a164-c2a04169c418": {
+      "id": "3e2df906-4e21-5336-a164-c2a04169c418",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "59ce94e19790565169ddc719eecaff2c",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\01-11-2018--post-3\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3",
+      "relativePath": "01-11-2018--post-3",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.304Z",
+      "accessTime": "2018-12-11T12:58:21.304Z",
+      "changeTime": "2018-12-11T12:58:21.304Z",
+      "birthTime": "2018-12-11T12:58:21.300Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
+      "base": "01-11-2018--post-3",
+      "ext": "",
+      "name": "01-11-2018--post-3",
+      "relativeDirectory": "",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655915,
+      "atime": "2018-12-11T12:58:21.304Z",
+      "mtime": "2018-12-11T12:58:21.304Z",
+      "ctime": "2018-12-11T12:58:21.304Z",
+      "birthtime": "2018-12-11T12:58:21.300Z"
+    },
+    "9ede48b5-9bc4-5f83-b884-2e103e1df382": {
+      "id": "9ede48b5-9bc4-5f83-b884-2e103e1df382",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cf602c02d73bd6102317c0c5888c6b1d",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\02-11-2018--post-4\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4",
+      "relativePath": "02-11-2018--post-4",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.335Z",
+      "accessTime": "2018-12-11T12:58:21.335Z",
+      "changeTime": "2018-12-11T12:58:21.335Z",
+      "birthTime": "2018-12-11T12:58:21.331Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
+      "base": "02-11-2018--post-4",
+      "ext": "",
+      "name": "02-11-2018--post-4",
+      "relativeDirectory": "",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655920,
+      "atime": "2018-12-11T12:58:21.335Z",
+      "mtime": "2018-12-11T12:58:21.335Z",
+      "ctime": "2018-12-11T12:58:21.335Z",
+      "birthtime": "2018-12-11T12:58:21.331Z"
+    },
+    "878c74b5-34ed-5414-a7e5-4afdb809006a": {
+      "id": "878c74b5-34ed-5414-a7e5-4afdb809006a",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "524fec7f0176e7167e2e92d238c87813",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\31-10-2018--post-2\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2",
+      "relativePath": "31-10-2018--post-2",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.440Z",
+      "accessTime": "2018-12-11T12:58:21.440Z",
+      "changeTime": "2018-12-11T12:58:21.440Z",
+      "birthTime": "2018-12-11T12:58:21.436Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
+      "base": "31-10-2018--post-2",
+      "ext": "",
+      "name": "31-10-2018--post-2",
+      "relativeDirectory": "",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655935,
+      "atime": "2018-12-11T12:58:21.440Z",
+      "mtime": "2018-12-11T12:58:21.440Z",
+      "ctime": "2018-12-11T12:58:21.440Z",
+      "birthtime": "2018-12-11T12:58:21.436Z"
+    },
+    "c11f398a-d119-5945-abb5-a82cf84c72ff": {
+      "id": "c11f398a-d119-5945-abb5-a82cf84c72ff",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "61983b1a14fa68c089ddd830b308c34f",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\03-11-2018--post-5\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/images",
+      "relativePath": "03-11-2018--post-5/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.384Z",
+      "accessTime": "2018-12-11T12:58:21.384Z",
+      "changeTime": "2018-12-11T12:58:21.384Z",
+      "birthTime": "2018-12-11T12:58:21.375Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "03-11-2018--post-5",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655927,
+      "atime": "2018-12-11T12:58:21.384Z",
+      "mtime": "2018-12-11T12:58:21.384Z",
+      "ctime": "2018-12-11T12:58:21.384Z",
+      "birthtime": "2018-12-11T12:58:21.375Z"
+    },
+    "e648ef27-599e-58ad-86db-81616cd8790f": {
+      "id": "e648ef27-599e-58ad-86db-81616cd8790f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4aa539aba208734a108f4324ccdee997",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\01-11-2018--post-3\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3/images",
+      "relativePath": "01-11-2018--post-3/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.315Z",
+      "accessTime": "2018-12-11T12:58:21.315Z",
+      "changeTime": "2018-12-11T12:58:21.315Z",
+      "birthTime": "2018-12-11T12:58:21.304Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "01-11-2018--post-3",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655917,
+      "atime": "2018-12-11T12:58:21.315Z",
+      "mtime": "2018-12-11T12:58:21.315Z",
+      "ctime": "2018-12-11T12:58:21.315Z",
+      "birthtime": "2018-12-11T12:58:21.304Z"
+    },
+    "c68fffa3-ea2b-52fd-a3bb-b6383285752e": {
+      "id": "c68fffa3-ea2b-52fd-a3bb-b6383285752e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3d067aeedcda95e4e23439699bf5fdbc",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\30-10-2018--hello-world\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world/images",
+      "relativePath": "30-10-2018--hello-world/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.428Z",
+      "accessTime": "2018-12-11T12:58:21.428Z",
+      "changeTime": "2018-12-11T12:58:21.428Z",
+      "birthTime": "2018-12-11T12:58:21.397Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "30-10-2018--hello-world",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655932,
+      "atime": "2018-12-11T12:58:21.428Z",
+      "mtime": "2018-12-11T12:58:21.428Z",
+      "ctime": "2018-12-11T12:58:21.428Z",
+      "birthtime": "2018-12-11T12:58:21.397Z"
+    },
+    "255420b2-f801-56cc-9213-2307ec885364": {
+      "id": "255420b2-f801-56cc-9213-2307ec885364",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c43c88660174f752d0cd01da30207c8f",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\02-11-2018--post-4\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/images",
+      "relativePath": "02-11-2018--post-4/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.357Z",
+      "accessTime": "2018-12-11T12:58:21.357Z",
+      "changeTime": "2018-12-11T12:58:21.357Z",
+      "birthTime": "2018-12-11T12:58:21.335Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "02-11-2018--post-4",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655922,
+      "atime": "2018-12-11T12:58:21.357Z",
+      "mtime": "2018-12-11T12:58:21.357Z",
+      "ctime": "2018-12-11T12:58:21.357Z",
+      "birthtime": "2018-12-11T12:58:21.335Z"
+    },
+    "3cc1ccbf-5c83-5db4-9155-8c198687e26c": {
+      "id": "3cc1ccbf-5c83-5db4-9155-8c198687e26c",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ede35f846c0391e360dfae6bf15fde54",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\31-10-2018--post-2\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2/images",
+      "relativePath": "31-10-2018--post-2/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-11T12:58:21.447Z",
+      "accessTime": "2018-12-11T12:58:21.447Z",
+      "changeTime": "2018-12-11T12:58:21.447Z",
+      "birthTime": "2018-12-11T12:58:21.440Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "31-10-2018--post-2",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655937,
+      "atime": "2018-12-11T12:58:21.447Z",
+      "mtime": "2018-12-11T12:58:21.447Z",
+      "ctime": "2018-12-11T12:58:21.447Z",
+      "birthtime": "2018-12-11T12:58:21.440Z"
+    },
+    "82b8f2d1-cc91-591e-805a-6864ebd73157": {
+      "id": "82b8f2d1-cc91-591e-805a-6864ebd73157",
+      "children": [
+        "e87e861a-3d97-5761-b56e-c1f3836aa393"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0a034ec114cc23770de70ec196f8f5b7",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3/index.md",
+      "relativePath": "01-11-2018--post-3/index.md",
+      "extension": "md",
+      "size": 2165,
+      "prettySize": "2.17 kB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.302Z",
+      "changeTime": "2018-12-11T12:58:21.303Z",
+      "birthTime": "2018-12-11T12:58:21.302Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "01-11-2018--post-3",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655916,
+      "atime": "2018-12-11T12:58:21.302Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.303Z",
+      "birthtime": "2018-12-11T12:58:21.302Z"
+    },
+    "c1783f6a-bab6-5e7d-815e-1a5775cd88ae": {
+      "id": "c1783f6a-bab6-5e7d-815e-1a5775cd88ae",
+      "children": [
+        "5a49985f-53b7-50bb-a075-9d4df45f2a5b"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "64ebaf64056c5e64821384a4a840df37",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/index.md",
+      "relativePath": "02-11-2018--post-4/index.md",
+      "extension": "md",
+      "size": 2161,
+      "prettySize": "2.16 kB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.333Z",
+      "changeTime": "2018-12-11T12:58:21.334Z",
+      "birthTime": "2018-12-11T12:58:21.333Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "02-11-2018--post-4",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655921,
+      "atime": "2018-12-11T12:58:21.333Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.334Z",
+      "birthtime": "2018-12-11T12:58:21.333Z"
+    },
+    "278fe484-9fa2-5a98-8023-b2bfdbe3bece": {
+      "id": "278fe484-9fa2-5a98-8023-b2bfdbe3bece",
+      "children": [
+        "6fd808cf-834a-5007-b6b3-a1bcf83f4885"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2c46202670d73d0dfec14b78c919d917",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world/index.md",
+      "relativePath": "30-10-2018--hello-world/index.md",
+      "extension": "md",
+      "size": 2173,
+      "prettySize": "2.17 kB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.395Z",
+      "changeTime": "2018-12-11T12:58:21.396Z",
+      "birthTime": "2018-12-11T12:58:21.395Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "30-10-2018--hello-world",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655931,
+      "atime": "2018-12-11T12:58:21.395Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.396Z",
+      "birthtime": "2018-12-11T12:58:21.395Z"
+    },
+    "e6bbab69-2c10-5865-8b5b-3abf9733a1cd": {
+      "id": "e6bbab69-2c10-5865-8b5b-3abf9733a1cd",
+      "children": [
+        "5ab974a1-2475-52b9-9dcc-eb848963224e"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d37dda5521e33c64da24ae245dc9e767",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/index.md",
+      "relativePath": "03-11-2018--post-5/index.md",
+      "extension": "md",
+      "size": 2154,
+      "prettySize": "2.15 kB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.373Z",
+      "changeTime": "2018-12-11T12:58:21.374Z",
+      "birthTime": "2018-12-11T12:58:21.373Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "03-11-2018--post-5",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655926,
+      "atime": "2018-12-11T12:58:21.373Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.374Z",
+      "birthtime": "2018-12-11T12:58:21.373Z"
+    },
+    "d5f07049-af7a-5dc0-b97d-d5b671510fb6": {
+      "id": "d5f07049-af7a-5dc0-b97d-d5b671510fb6",
+      "children": [
+        "c95c98a4-5783-5e72-8d84-5ee035809836"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "abaedb2ff8dae46e7e6297dd83ba108d",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2/index.md",
+      "relativePath": "31-10-2018--post-2/index.md",
+      "extension": "md",
+      "size": 2158,
+      "prettySize": "2.16 kB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.438Z",
+      "changeTime": "2018-12-11T12:58:21.439Z",
+      "birthTime": "2018-12-11T12:58:21.438Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "31-10-2018--post-2",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655936,
+      "atime": "2018-12-11T12:58:21.438Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.439Z",
+      "birthtime": "2018-12-11T12:58:21.438Z"
+    },
+    "e87e861a-3d97-5761-b56e-c1f3836aa393": {
+      "id": "e87e861a-3d97-5761-b56e-c1f3836aa393",
+      "children": [],
+      "parent": "82b8f2d1-cc91-591e-805a-6864ebd73157",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/geran-de-klerk-136351-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "823a21e7e278e4e88bd6bf222cbe390c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 3",
+        "date": "2018-11-01",
+        "slug": "post-three",
+        "_PARENT": "82b8f2d1-cc91-591e-805a-6864ebd73157"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/geran-de-klerk-136351-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3/index.md"
+    },
+    "5a49985f-53b7-50bb-a075-9d4df45f2a5b": {
+      "id": "5a49985f-53b7-50bb-a075-9d4df45f2a5b",
+      "children": [],
+      "parent": "c1783f6a-bab6-5e7d-815e-1a5775cd88ae",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/austin-neill-222827-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/clem-onojeghuo-203219-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "42264271aa3972f46d86ecbb52bb099c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 4",
+        "date": "2018-11-02",
+        "slug": "post-four",
+        "_PARENT": "c1783f6a-bab6-5e7d-815e-1a5775cd88ae"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/austin-neill-222827-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/clem-onojeghuo-203219-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/index.md"
+    },
+    "6fd808cf-834a-5007-b6b3-a1bcf83f4885": {
+      "id": "6fd808cf-834a-5007-b6b3-a1bcf83f4885",
+      "children": [],
+      "parent": "278fe484-9fa2-5a98-8023-b2bfdbe3bece",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/alessandro-viaro-94370-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/cristina-gottardi-189946-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a284bed64fb7b5acafb63483b2c3a243",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hello, World!",
+        "date": "2018-10-30",
+        "slug": "post-one",
+        "_PARENT": "278fe484-9fa2-5a98-8023-b2bfdbe3bece"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/alessandro-viaro-94370-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/cristina-gottardi-189946-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world/index.md"
+    },
+    "5ab974a1-2475-52b9-9dcc-eb848963224e": {
+      "id": "5ab974a1-2475-52b9-9dcc-eb848963224e",
+      "children": [],
+      "parent": "e6bbab69-2c10-5865-8b5b-3abf9733a1cd",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/ho-hyou-735008-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/patrick-fore-389431-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "c36deafab0c54ba3bcb99229c42fb01d",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 5",
+        "date": "2018-11-03",
+        "slug": "post-five",
+        "_PARENT": "e6bbab69-2c10-5865-8b5b-3abf9733a1cd"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/ho-hyou-735008-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/patrick-fore-389431-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/index.md"
+    },
+    "c95c98a4-5783-5e72-8d84-5ee035809836": {
+      "id": "c95c98a4-5783-5e72-8d84-5ee035809836",
+      "children": [],
+      "parent": "d5f07049-af7a-5dc0-b97d-d5b671510fb6",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/markos-mant-228858-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/victor-benard-493618-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "8d3ff48b59a297d11a4cc7ae502b572c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 2",
+        "date": "2018-10-31",
+        "slug": "post-two",
+        "_PARENT": "d5f07049-af7a-5dc0-b97d-d5b671510fb6"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/markos-mant-228858-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/victor-benard-493618-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2/index.md"
+    },
+    "80410ef1-db6a-53f4-8cee-e7985a27b48f": {
+      "id": "80410ef1-db6a-53f4-8cee-e7985a27b48f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a86610c9095824d423b7c6bf4bb637d5",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\images\\victor-benard-493618-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2/images/victor-benard-493618-unsplash.jpg",
+      "relativePath": "31-10-2018--post-2/images/victor-benard-493618-unsplash.jpg",
+      "extension": "jpg",
+      "size": 765260,
+      "prettySize": "765 kB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.447Z",
+      "changeTime": "2018-12-11T12:58:21.449Z",
+      "birthTime": "2018-12-11T12:58:21.447Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2/images",
+      "base": "victor-benard-493618-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "victor-benard-493618-unsplash",
+      "relativeDirectory": "31-10-2018--post-2\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655939,
+      "atime": "2018-12-11T12:58:21.447Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.449Z",
+      "birthtime": "2018-12-11T12:58:21.447Z"
+    },
+    "5b5de15a-feac-52d3-ae1c-4b173f14bd6b": {
+      "id": "5b5de15a-feac-52d3-ae1c-4b173f14bd6b",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "11600f779e789800beb7d2fe11ffe4ed",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\images\\markos-mant-228858-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2/images/markos-mant-228858-unsplash.jpg",
+      "relativePath": "31-10-2018--post-2/images/markos-mant-228858-unsplash.jpg",
+      "extension": "jpg",
+      "size": 1444444,
+      "prettySize": "1.44 MB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.443Z",
+      "changeTime": "2018-12-11T12:58:21.446Z",
+      "birthTime": "2018-12-11T12:58:21.443Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2/images",
+      "base": "markos-mant-228858-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "markos-mant-228858-unsplash",
+      "relativeDirectory": "31-10-2018--post-2\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655938,
+      "atime": "2018-12-11T12:58:21.443Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.446Z",
+      "birthtime": "2018-12-11T12:58:21.443Z"
+    },
+    "6e8fed52-b136-5ae2-8d74-c526e25e9f63": {
+      "id": "6e8fed52-b136-5ae2-8d74-c526e25e9f63",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0ce10cb011e872efa5a8220d35287dec",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\ho-hyou-735008-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/images/ho-hyou-735008-unsplash.jpg",
+      "relativePath": "03-11-2018--post-5/images/ho-hyou-735008-unsplash.jpg",
+      "extension": "jpg",
+      "size": 1643217,
+      "prettySize": "1.64 MB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.379Z",
+      "changeTime": "2018-12-11T12:58:21.382Z",
+      "birthTime": "2018-12-11T12:58:21.379Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/images",
+      "base": "ho-hyou-735008-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "ho-hyou-735008-unsplash",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655928,
+      "atime": "2018-12-11T12:58:21.379Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.382Z",
+      "birthtime": "2018-12-11T12:58:21.379Z"
+    },
+    "393d3f34-b976-53dc-b0ae-c049abc1502e": {
+      "id": "393d3f34-b976-53dc-b0ae-c049abc1502e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ea4efde82d6bc4cae0d76d2df8e7eb32",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\images\\austin-neill-222827-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/images/austin-neill-222827-unsplash.jpg",
+      "relativePath": "02-11-2018--post-4/images/austin-neill-222827-unsplash.jpg",
+      "extension": "jpg",
+      "size": 2141253,
+      "prettySize": "2.14 MB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.337Z",
+      "changeTime": "2018-12-11T12:58:21.342Z",
+      "birthTime": "2018-12-11T12:58:21.337Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/images",
+      "base": "austin-neill-222827-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "austin-neill-222827-unsplash",
+      "relativeDirectory": "02-11-2018--post-4\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655923,
+      "atime": "2018-12-11T12:58:21.337Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.342Z",
+      "birthtime": "2018-12-11T12:58:21.337Z"
+    },
+    "18c2e236-5f3e-5d11-9807-9555ad191b08": {
+      "id": "18c2e236-5f3e-5d11-9807-9555ad191b08",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "81a4aa34b4c692e0fddb9393769b4592",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\patrick-fore-389431-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/images/patrick-fore-389431-unsplash.jpg",
+      "relativePath": "03-11-2018--post-5/images/patrick-fore-389431-unsplash.jpg",
+      "extension": "jpg",
+      "size": 2829001,
+      "prettySize": "2.83 MB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.384Z",
+      "changeTime": "2018-12-11T12:58:21.390Z",
+      "birthTime": "2018-12-11T12:58:21.384Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/images",
+      "base": "patrick-fore-389431-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "patrick-fore-389431-unsplash",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655929,
+      "atime": "2018-12-11T12:58:21.384Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.390Z",
+      "birthtime": "2018-12-11T12:58:21.384Z"
+    },
+    "3ebd5443-7128-56d5-a4d4-ca9163773f68": {
+      "id": "3ebd5443-7128-56d5-a4d4-ca9163773f68",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4ab10861d02f8834155314441580201b",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\images\\cristina-gottardi-189946-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world/images/cristina-gottardi-189946-unsplash.jpg",
+      "relativePath": "30-10-2018--hello-world/images/cristina-gottardi-189946-unsplash.jpg",
+      "extension": "jpg",
+      "size": 2406353,
+      "prettySize": "2.41 MB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.428Z",
+      "changeTime": "2018-12-11T12:58:21.434Z",
+      "birthTime": "2018-12-11T12:58:21.428Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world/images",
+      "base": "cristina-gottardi-189946-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "cristina-gottardi-189946-unsplash",
+      "relativeDirectory": "30-10-2018--hello-world\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655934,
+      "atime": "2018-12-11T12:58:21.428Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.434Z",
+      "birthtime": "2018-12-11T12:58:21.428Z"
+    },
+    "4e8598c1-6b80-5b76-af9a-eddb54948de0": {
+      "id": "4e8598c1-6b80-5b76-af9a-eddb54948de0",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b70b696419d965267259b4974ce9c07f",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\images\\geran-de-klerk-136351-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3/images/geran-de-klerk-136351-unsplash.jpg",
+      "relativePath": "01-11-2018--post-3/images/geran-de-klerk-136351-unsplash.jpg",
+      "extension": "jpg",
+      "size": 3451421,
+      "prettySize": "3.45 MB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.306Z",
+      "changeTime": "2018-12-11T12:58:21.313Z",
+      "birthTime": "2018-12-11T12:58:21.306Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3/images",
+      "base": "geran-de-klerk-136351-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "geran-de-klerk-136351-unsplash",
+      "relativeDirectory": "01-11-2018--post-3\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655918,
+      "atime": "2018-12-11T12:58:21.306Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.313Z",
+      "birthtime": "2018-12-11T12:58:21.306Z"
+    },
+    "e5c34d6f-9b3d-54de-9d97-3bfb3beb509e": {
+      "id": "e5c34d6f-9b3d-54de-9d97-3bfb3beb509e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e21f341f246d55c3975e9adc69e30425",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\images\\alessandro-viaro-94370-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world/images/alessandro-viaro-94370-unsplash.jpg",
+      "relativePath": "30-10-2018--hello-world/images/alessandro-viaro-94370-unsplash.jpg",
+      "extension": "jpg",
+      "size": 4988269,
+      "prettySize": "4.99 MB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.400Z",
+      "changeTime": "2018-12-11T12:58:21.427Z",
+      "birthTime": "2018-12-11T12:58:21.400Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world/images",
+      "base": "alessandro-viaro-94370-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "alessandro-viaro-94370-unsplash",
+      "relativeDirectory": "30-10-2018--hello-world\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655933,
+      "atime": "2018-12-11T12:58:21.400Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.427Z",
+      "birthtime": "2018-12-11T12:58:21.400Z"
+    },
+    "f9aad6f4-f533-5fe2-aa69-3e6705d71c8b": {
+      "id": "f9aad6f4-f533-5fe2-aa69-3e6705d71c8b",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4726a1f114a2e2977bff377cc2baa8ea",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\images\\clem-onojeghuo-203219-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/images/clem-onojeghuo-203219-unsplash.jpg",
+      "relativePath": "02-11-2018--post-4/images/clem-onojeghuo-203219-unsplash.jpg",
+      "extension": "jpg",
+      "size": 6066916,
+      "prettySize": "6.07 MB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.344Z",
+      "changeTime": "2018-12-11T12:58:21.369Z",
+      "birthTime": "2018-12-11T12:58:21.344Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/images",
+      "base": "clem-onojeghuo-203219-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "clem-onojeghuo-203219-unsplash",
+      "relativeDirectory": "02-11-2018--post-4\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655924,
+      "atime": "2018-12-11T12:58:21.344Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.369Z",
+      "birthtime": "2018-12-11T12:58:21.344Z"
+    },
+    "b3b2036b-67ec-5cce-8cca-3d0b9e3d8e8b": {
+      "id": "b3b2036b-67ec-5cce-8cca-3d0b9e3d8e8b",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6186e35c2238d10f1d08ab77e3a67793",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\images\\nathan-anderson-443540-unsplash.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3/images/nathan-anderson-443540-unsplash.jpg",
+      "relativePath": "01-11-2018--post-3/images/nathan-anderson-443540-unsplash.jpg",
+      "extension": "jpg",
+      "size": 6786458,
+      "prettySize": "6.79 MB",
+      "modifiedTime": "2018-11-05T15:36:57.000Z",
+      "accessTime": "2018-12-11T12:58:21.314Z",
+      "changeTime": "2018-12-11T12:58:21.328Z",
+      "birthTime": "2018-12-11T12:58:21.314Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3/images",
+      "base": "nathan-anderson-443540-unsplash.jpg",
+      "ext": ".jpg",
+      "name": "nathan-anderson-443540-unsplash",
+      "relativeDirectory": "01-11-2018--post-3\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424930655919,
+      "atime": "2018-12-11T12:58:21.314Z",
+      "mtime": "2018-11-05T15:36:57.000Z",
+      "ctime": "2018-12-11T12:58:21.328Z",
+      "birthtime": "2018-12-11T12:58:21.314Z"
+    },
+    "SitePage /blog/post-three": {
+      "jsonName": "blog-post-three-0ca",
+      "internalComponentName": "ComponentBlogPostThree",
+      "path": "/blog/post-three",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-three"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-three",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6aab08754d2cee1d7c2979b2caa01030",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-four": {
+      "jsonName": "blog-post-four-acd",
+      "internalComponentName": "ComponentBlogPostFour",
+      "path": "/blog/post-four",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-four"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-four",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c7beb3dc1c7aa686965b6c8c1f50da8e",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-one": {
+      "jsonName": "blog-post-one-638",
+      "internalComponentName": "ComponentBlogPostOne",
+      "path": "/blog/post-one",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-one"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-one",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "95c9e3f80ef7ce7fa5e871a9f5c05f26",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-five": {
+      "jsonName": "blog-post-five-add",
+      "internalComponentName": "ComponentBlogPostFive",
+      "path": "/blog/post-five",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-five"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-five",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f53a15c5e786f16308ab5c6c2c6b4332",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-two": {
+      "jsonName": "blog-post-two-99a",
+      "internalComponentName": "ComponentBlogPostTwo",
+      "path": "/blog/post-two",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-two"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-two",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d72f9fe544032d1dc08dc8c5ffaef2ce",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+      "pluginCreatorId": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "11f4602bf95b6d33d50f46945f94c8fa",
+        "description": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "jsonName": "blog-f7a",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+      "pluginCreatorId": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4716ba3bfec71e319f1e24f9115986de",
+        "description": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+      "pluginCreatorId": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0451a5efcf7c66e3e962dee7486e9637",
+        "description": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /second-page/": {
+      "jsonName": "second-page-1c7",
+      "internalComponentName": "ComponentSecondPage",
+      "path": "/second-page/",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/second-page.js",
+      "componentChunkName": "component---src-pages-second-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+      "pluginCreatorId": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/second-page.js",
+      "id": "SitePage /second-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3dd609af48122528f609034ace1cf8ce",
+        "description": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "2a190fd45ebfd952f1685a7111b00414"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/"
+      ],
+      "e87e861a-3d97-5761-b56e-c1f3836aa393": [
+        "/blog/post-three"
+      ],
+      "5a49985f-53b7-50bb-a075-9d4df45f2a5b": [
+        "/blog/post-four"
+      ],
+      "6fd808cf-834a-5007-b6b3-a1bcf83f4885": [
+        "/blog/post-one"
+      ],
+      "5ab974a1-2475-52b9-9dcc-eb848963224e": [
+        "/blog/post-five"
+      ],
+      "c95c98a4-5783-5e72-8d84-5ee035809836": [
+        "/blog/post-two"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/blog/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "index": "382/path---index-6a9-QEnwhmH1g83lNS3OLRrp5IkUwCY",
+    "blog-post-three-0ca": "790/path---blog-post-three-0-ca-e59-2cznFu1LXhsx1z0G5q5dlGAMmw",
+    "blog-post-four-acd": "477/path---blog-post-four-acd-cf4-FuVUcd8ZWpSYDv9xqKYtYk75k",
+    "blog-post-one-638": "300/path---blog-post-one-638-2ad-Tml5hAY52ycmK4tKEGZKZ43V3eU",
+    "blog-f7a": "381/path---blog-f-7-a-05d-SqwwxjzS62LGNcLCAbQpDhUDoi4",
+    "blog-post-two-99a": "521/path---blog-post-two-99-a-e88-hbwtMop5l1G7jUXArRpgi52qRSw",
+    "blog-post-five-add": "950/path---blog-post-five-add-944-FGZYX00eFIk3u3sNHrkJBtWFiE",
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "second-page-1c7": "772/path---second-page-1-c-7-a3b-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js": {
+      "query": "query BlogPostQuery(\n  $slug: String!\n) {\n  markdownRemark(frontmatter: {slug: {eq: $slug}}) {\n    html\n    frontmatter {\n      date\n      slug\n      title\n    }\n  }\n}\n",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js"
+    },
+    "C:/Users/PC/Desktop/Moje/hciblog/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/.cache/dev-404-page.js"
+    },
+    "C:/Users/PC/Desktop/Moje/hciblog/src/pages/about.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/about.js"
+    },
+    "C:/Users/PC/Desktop/Moje/hciblog/src/pages/blog.js": {
+      "query": "query BlogIndexQuery {\n  allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {\n    edges {\n      node {\n        id\n        frontmatter {\n          title\n          date\n          slug\n        }\n        excerpt(pruneLength: 300)\n      }\n    }\n  }\n}\n",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/blog.js"
+    },
+    "C:/Users/PC/Desktop/Moje/hciblog/src/pages/index.js": {
+      "query": "query SiteMetadata {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/index.js"
+    },
+    "C:/Users/PC/Desktop/Moje/hciblog/src/pages/second-page.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/pages/second-page.js"
+    }
+  },
+  "staticQueryComponents": {}
+}
