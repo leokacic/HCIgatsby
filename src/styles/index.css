@@ -16,16 +16,19 @@ html {
   -moz-osx-font-smoothing: grayscale;
   font-size: 17px;
   line-height: 1.7;
+  
 }
 
 body {
   overflow-x: hidden;
   position: relative;
+  
 }
 
 * {
   margin: 0;
   padding: 0;
+  
 }
 
 *,

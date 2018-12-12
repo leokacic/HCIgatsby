@@ -2,6 +2,7 @@
   border-top: 1px solid var(--color-grey, #000);
   text-align: center;
   grid-area: footer;
+  background-color: #000;
 }
 .footerNavigation{
   display: flex;
@@ -20,7 +21,6 @@
 
 .footerList span{
   padding: 0.5rem;
-  list-style-type: none;
 }
 
 .navFooter{
