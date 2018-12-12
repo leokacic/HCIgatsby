@@ -54,11 +54,8 @@
   transition: all 0.25s linear;
 }
 
-.NavLink:first-child {
-  margin-left: 10px;
-}
-
 .NavLink:nth-child(1){
+  margin-left: 10px;
   border-bottom: 3px solid orange;
 }
 
@@ -67,7 +64,8 @@
 }
 
 .NavLink:nth-child(3){
-  border-bottom: 3px solid yellow;
+  border-bottom: 3px solid rgb(255,255,102)
+  ;
 }
 
 .NavLink:nth-child(4){
@@ -82,7 +80,7 @@
   border-bottom: 3px solid lightblue;
 }
 
-.NavLink__active,
+
 .NavLink:nth-child(1):hover {
   color: var(--color-gold, orange);
   border-bottom: 3px solid var(--color-gold, orange);
@@ -94,21 +92,51 @@
 }
 
 .NavLink:nth-child(3):hover {
-  color: red;
+  color: yellow;
   border-bottom: 3px solid yellow;
 }
 
-.NavLink:nth-child(3):hover {
+.NavLink:nth-child(4):hover {
   color: red;
   border-bottom: 3px solid red;
 }
 
-.NavLink:nth-child(3):hover {
-  color: red;
+.NavLink:nth-child(5):hover {
+  color: green;
   border-bottom: 3px solid green;
 }
 
-.NavLink:nth-child(3):hover {
+.NavLink:nth-child(6):hover {
+  color: lightblue;
+  border-bottom: 3px solid lightblue;
+}
+
+.NavLink__active:nth-child(1){
+  color: orange;
+  border-bottom: 3px solid orange;
+}
+
+.NavLink__active:nth-child(2){
+  color: blue;
+  border-bottom: 3px solid blue;
+}
+
+.NavLink__active:nth-child(3){
+  color: yellow;
+  border-bottom: 3px solid yellow;
+}
+
+.NavLink__active:nth-child(4){
   color: red;
+  border-bottom: 3px solid red;
+}
+
+.NavLink__active:nth-child(5){
+  color: green;
+  border-bottom: 3px solid green;
+}
+
+.NavLink__active:nth-child(6){
+  color: lightblue;
   border-bottom: 3px solid lightblue;
 }

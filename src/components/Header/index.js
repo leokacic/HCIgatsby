@@ -18,7 +18,7 @@ export default () => (
         <NavLink to="/" exact="true">
           Naslovnica
         </NavLink>
-        <NavLink to="/kultura">Kultura</NavLink>
+        <NavLink to="/kultura" id={styles.kultura}>Kultura</NavLink>
         <NavLink to="/zivotinje">Životinje</NavLink>
         <NavLink to="/putovanja">Putovanja</NavLink>
         <NavLink to="/zanimljivosti">Zanimljivosti</NavLink>
