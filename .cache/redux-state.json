@@ -886,12 +886,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-12-12T13:19:03.623Z",
+      "buildTime": "2018-12-12T14:26:19.797Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0316fcbb190548a56a8c9125192af0fc",
+        "contentDigest": "249fb74292da62807b8bb3e7016b6ed4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }

@@ -19,10 +19,10 @@ export default () => (
           Naslovnica
         </NavLink>
         <NavLink to="/kultura" id={styles.kultura}>Kultura</NavLink>
-        <NavLink to="/zivotinje">Životinje</NavLink>
-        <NavLink to="/putovanja">Putovanja</NavLink>
-        <NavLink to="/zanimljivosti">Zanimljivosti</NavLink>
-        <NavLink to="/blog">Blog</NavLink>
+        <NavLink to="/zivotinje" id={styles.zivotinje}>Životinje</NavLink>
+        <NavLink to="/putovanja" id={styles.putovanja}>Putovanja</NavLink>
+        <NavLink to="/zanimljivosti" id={styles.zanimljivosti}>Zanimljivosti</NavLink>
+        <NavLink to="/blog" id={styles.blog}>Blog</NavLink>
       </Nav>
     </Container>
   </header>

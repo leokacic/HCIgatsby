@@ -1,6 +1,7 @@
 import React from "react";
 import { graphql } from "gatsby";
 import { Layout } from "../components";
+import MainNews from "../components/MainNews";
 
 export default ({
   data: {
@@ -11,9 +12,10 @@ export default ({
 }) => {
   return (
     <Layout>
-      <h1>{title}</h1>
-      <p>{description}</p>
-    </Layout>
+    <MainNews> 
+      <h1>Kultura</h1>
+    </MainNews>
+  </Layout>
   );
 };
 

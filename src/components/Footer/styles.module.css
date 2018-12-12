@@ -5,6 +5,7 @@
 }
 .footerNavigation{
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   padding: 0.8rem;
 }
@@ -14,16 +15,15 @@
   width: 60%;
 }
 .footerList{
-  display: flex;
-  flex-wrap: wrap;
+  text-align: center;
 }
 
-.footerList li{
+.footerList span{
   padding: 0.5rem;
   list-style-type: none;
 }
 
-.footerList li a{
+.navFooter{
   color: gray;
 }
 
@@ -33,19 +33,8 @@
 }
 
 @media screen and (max-width: 600px)  {
-  #footerLeft{
-      margin-left: 0%;
-      width: auto;
-  }
   .footerNavigation{
       flex-direction: column;
-  }
-}
-
-@media screen and  (max-width: 900px) and (min-width: 600px) {
-  #footerLeft{
-      margin-left: 0%; 
-      width: auto;   
   }
 }
 
