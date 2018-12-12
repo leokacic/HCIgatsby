@@ -8,8 +8,8 @@ import Android from "../../images/Android.jpg"
 
 export default () => (
     <aside className={styles.Aside}>
-            <h2>Najnovije</h2>
-            <div className={styles.aside__content}>
+            <h2 >Najnovije</h2>
+            <div className={styles.asideContent}>
                 <div className={styles.card}>
                     <div>
                         <img className={styles.SlikaNovosti} src={Casablanca} alt="Casablanca"/>
