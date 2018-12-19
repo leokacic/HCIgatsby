@@ -11,8 +11,6 @@
 .SporedneVijesti{
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
   margin-left: 5px;
   padding-right: 5px;   
 }
@@ -25,8 +23,7 @@
   height: 100%;
   max-width: 300px;
   max-height: 300px;
-  min-width: 200px;
-  min-height: 200px;
+  
 }
 .PrvaVijest{
   text-align: left;
