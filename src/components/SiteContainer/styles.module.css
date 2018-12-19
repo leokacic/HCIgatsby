@@ -5,6 +5,7 @@
   grid-gap: 10px;
   display: grid;
   grid-template-rows: 8vh auto 8vh;
+  grid-template-columns: 15% 45% 25% 15%;
   grid-template-areas:
     "header header header header"
     ". main aside ."
