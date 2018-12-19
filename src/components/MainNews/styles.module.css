@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   border: 2px solid black;
+  grid-area: main;
 }
 .GlavnaSlika{
   width: 100%;
@@ -10,10 +11,13 @@
 .SporedneVijesti{
   display: flex;
   flex-direction: row;
-  padding-right: 5px;   
+  justify-content: space-around;
+  align-items: center;
   margin-left: 5px;
+  padding-right: 5px;   
 }
-.SporedneVijesti>div{
+
+.SporedneVijesti div{
   margin-left: 5px;
 }
 .SporedneSlike{
@@ -21,6 +25,8 @@
   height: 100%;
   max-width: 300px;
   max-height: 300px;
+  min-width: 300px;
+  min-height: 300px;
 }
 .PrvaVijest{
   text-align: left;

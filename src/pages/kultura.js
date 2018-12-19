@@ -5,11 +5,8 @@ import Aside from "../components/Aside";
 
 export default () => (
   <Layout>
-    <MainNews> 
-    
+    <MainNews>  
       <h1>Kultura</h1>
     </MainNews>
-    <Aside>
-    </Aside>
   </Layout>
 );

@@ -4,13 +4,12 @@
   width: 100%;
   margin-top: 20xpx;
 }
-.card > h3 {
+.card h3{
   text-align: start;
   margin-left: 5px;
 }
-.card > p {
+.card p{
   text-align: left;
-  color: aqua;
   margin-left: 5px;
 }
 .Aside {
@@ -22,7 +21,7 @@
   border: 2px solid black;
   background-color: palegreen;
 }
-.Aside>h2{
+.Aside h2{
   text-align: left;
 }
 .asideContent {

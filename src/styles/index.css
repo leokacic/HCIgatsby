@@ -3,6 +3,9 @@
   --color-grey: #eeeeee;
   --color-dark-grey: #776666;
   --color-gold: #e67700;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
