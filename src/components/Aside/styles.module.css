@@ -38,3 +38,21 @@
   text-align: start;
   margin-left: 5px;
 }
+@supports (display: grid) {
+  @media screen and (max-width: 400px) { /*za mobitele */
+    .Aside {
+      display: flex;
+      flex-direction: column; 
+      justify-content: space-around;
+      align-items: center;
+    }
+    .asideContent {
+      grid-gap: 10px; 
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); 
+      display: flex; 
+      flex-direction: column; 
+      grid-auto-rows: 100px;
+      overflow-y: hidden;
+    }
+  }
+}

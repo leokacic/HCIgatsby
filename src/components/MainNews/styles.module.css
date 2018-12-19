@@ -23,7 +23,6 @@
   height: 100%;
   max-width: 300px;
   max-height: 300px;
-  
 }
 .PrvaVijest{
   text-align: left;
@@ -44,4 +43,18 @@
 }
 .DrugaVijest p{
   margin-left: 5px;
+}
+
+@supports (display: grid) {
+  @media screen and (max-width: 400px) { /*za mobitele */
+    .SporedneVijesti {
+      padding: 0;
+      display: flex;
+      flex-direction: column; 
+      justify-content: space-around;
+      align-items: center;
+      padding-right: 0px;   
+      margin-left: 0px;
+    }
+  }
 }
