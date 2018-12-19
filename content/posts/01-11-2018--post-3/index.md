@@ -9,7 +9,7 @@ slug: post-three
 # [Lorem Ipsum](https://www.lipsum.com/)
 
 <figure class="figure">
-    <img src="./images/geran-de-klerk-136351-unsplash.jpg" alt="Title"/>
+    <img src="./images/Android.jpg" alt="Title"/>
     <figcaption class="figure__caption">Title</figcaption>
 </figure>
 

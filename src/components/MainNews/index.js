@@ -3,7 +3,7 @@ import styles from "./styles.module.css";
 
 import Slon from "../../images/Slonovi.jpg"
 import Tesla from "../../images/Tesla.jpg"
-import Sophie from "../../images/SpohieProfil.jpg"
+import Sophie from "../../images/SophieProfil.jpg"
 
 export default () => (
   <main className={styles.Main}>
