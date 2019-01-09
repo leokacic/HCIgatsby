@@ -12,22 +12,29 @@
     "footer footer footer footer";
 }
 @supports (display: grid) {
-  @media screen and (max-width: 400px) { /*za mobitele */
-      body {
-          font-size: 24px;
-      }
-      .Container {
-          display: grid;
-          max-width: 1000px;
-          grid-template-columns: 100%;
-          grid-template-rows: 8vh;
-          grid-template-areas: 
-          "header"
-          "main"
-          "aside"
-          "footer";
-      }
+  @media screen and (max-width: 400px) {
+    /*za mobitele */
+    body {
+      font-size: 24px;
+    }
+    .Container {
+      display: grid;
+      grid-gap: 10px;
+      max-width: 1000px;
+      grid-template-columns: 100%;
+      grid-template-rows: 8vh;
+      grid-template-areas:
+        "header"
+        "main"
+        "aside"
+        "footer";
+    }
   }
-  
-  
+}
+@supports (display: none) {
+  @media screen and (max-width: 250px) {
+    .Container {
+      display: none;
+    }
+  }
 }

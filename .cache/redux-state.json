@@ -886,12 +886,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-12-19T13:53:46.496Z",
+      "buildTime": "2019-01-09T20:08:03.220Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "dd377c933539278c3254fa0e371ea3e1",
+        "contentDigest": "c66e29637ad0e90c8535e818d67dcb7e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -901,7 +901,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cd39fe0a3225bbac8ebd7cb4c3a2f1bd",
+        "contentDigest": "f47d0259827a8ed3593d3b4b8d5b3167",
         "type": "Directory",
         "description": "Directory \"content\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -912,10 +912,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.803Z",
-      "accessTime": "2018-12-12T20:18:02.803Z",
-      "changeTime": "2018-12-12T20:18:02.803Z",
-      "birthTime": "2018-12-12T20:18:02.701Z",
+      "modifiedTime": "2018-12-19T22:13:27.012Z",
+      "accessTime": "2018-12-19T22:13:27.012Z",
+      "changeTime": "2018-12-19T22:13:27.012Z",
+      "birthTime": "2018-12-19T22:13:26.841Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content",
       "base": "posts",
@@ -928,18 +928,18 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 13229323905643840,
-      "atime": "2018-12-12T20:18:02.803Z",
-      "mtime": "2018-12-12T20:18:02.803Z",
-      "ctime": "2018-12-12T20:18:02.803Z",
-      "birthtime": "2018-12-12T20:18:02.701Z"
+      "ino": 2533274790915581,
+      "atime": "2018-12-19T22:13:27.012Z",
+      "mtime": "2018-12-19T22:13:27.012Z",
+      "ctime": "2018-12-19T22:13:27.012Z",
+      "birthtime": "2018-12-19T22:13:26.841Z"
     },
     "3e2df906-4e21-5336-a164-c2a04169c418": {
       "id": "3e2df906-4e21-5336-a164-c2a04169c418",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5194dbd8ffc7053f1363bbb88d20069f",
+        "contentDigest": "9ff54d0461373d1087595f157bebb84d",
         "type": "Directory",
         "description": "Directory \"content\\posts\\01-11-2018--post-3\"",
         "owner": "gatsby-source-filesystem"
@@ -950,10 +950,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.728Z",
-      "accessTime": "2018-12-12T20:18:02.728Z",
-      "changeTime": "2018-12-12T20:18:02.728Z",
-      "birthTime": "2018-12-12T20:18:02.705Z",
+      "modifiedTime": "2018-12-19T22:13:26.856Z",
+      "accessTime": "2018-12-19T22:13:26.856Z",
+      "changeTime": "2018-12-19T22:13:26.856Z",
+      "birthTime": "2018-12-19T22:13:26.841Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
       "base": "01-11-2018--post-3",
@@ -966,18 +966,18 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 3377699721176760,
-      "atime": "2018-12-12T20:18:02.728Z",
-      "mtime": "2018-12-12T20:18:02.728Z",
-      "ctime": "2018-12-12T20:18:02.728Z",
-      "birthtime": "2018-12-12T20:18:02.705Z"
+      "ino": 7318349394996735,
+      "atime": "2018-12-19T22:13:26.856Z",
+      "mtime": "2018-12-19T22:13:26.856Z",
+      "ctime": "2018-12-19T22:13:26.856Z",
+      "birthtime": "2018-12-19T22:13:26.841Z"
     },
     "9ede48b5-9bc4-5f83-b884-2e103e1df382": {
       "id": "9ede48b5-9bc4-5f83-b884-2e103e1df382",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "950f742791509aacf5959e2c7929902f",
+        "contentDigest": "8a8df895194f72013e4f9cd2468795a8",
         "type": "Directory",
         "description": "Directory \"content\\posts\\02-11-2018--post-4\"",
         "owner": "gatsby-source-filesystem"
@@ -988,10 +988,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.745Z",
-      "accessTime": "2018-12-12T20:18:02.745Z",
-      "changeTime": "2018-12-12T20:18:02.745Z",
-      "birthTime": "2018-12-12T20:18:02.739Z",
+      "modifiedTime": "2018-12-19T22:13:26.919Z",
+      "accessTime": "2018-12-19T22:13:26.919Z",
+      "changeTime": "2018-12-19T22:13:26.919Z",
+      "birthTime": "2018-12-19T22:13:26.903Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
       "base": "02-11-2018--post-4",
@@ -1004,18 +1004,18 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 3096224744466850,
-      "atime": "2018-12-12T20:18:02.745Z",
-      "mtime": "2018-12-12T20:18:02.745Z",
-      "ctime": "2018-12-12T20:18:02.745Z",
-      "birthtime": "2018-12-12T20:18:02.739Z"
+      "ino": 2814749767626277,
+      "atime": "2018-12-19T22:13:26.919Z",
+      "mtime": "2018-12-19T22:13:26.919Z",
+      "ctime": "2018-12-19T22:13:26.919Z",
+      "birthtime": "2018-12-19T22:13:26.903Z"
     },
     "a5b6e5d8-2c1e-585c-99c4-c45babb20086": {
       "id": "a5b6e5d8-2c1e-585c-99c4-c45babb20086",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d729ef42b00322ea5c6d0c5bf4b7e166",
+        "contentDigest": "3bda0fa5373d08a2ca717e52d962f29d",
         "type": "Directory",
         "description": "Directory \"content\\posts\\03-11-2018--post-5\"",
         "owner": "gatsby-source-filesystem"
@@ -1026,10 +1026,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.765Z",
-      "accessTime": "2018-12-12T20:18:02.765Z",
-      "changeTime": "2018-12-12T20:18:02.765Z",
-      "birthTime": "2018-12-12T20:18:02.757Z",
+      "modifiedTime": "2018-12-19T22:13:26.966Z",
+      "accessTime": "2018-12-19T22:13:26.966Z",
+      "changeTime": "2018-12-19T22:13:26.966Z",
+      "birthTime": "2018-12-19T22:13:26.950Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
       "base": "03-11-2018--post-5",
@@ -1042,18 +1042,18 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1688849860913665,
-      "atime": "2018-12-12T20:18:02.765Z",
-      "mtime": "2018-12-12T20:18:02.765Z",
-      "ctime": "2018-12-12T20:18:02.765Z",
-      "birthtime": "2018-12-12T20:18:02.757Z"
+      "ino": 4222124651179570,
+      "atime": "2018-12-19T22:13:26.966Z",
+      "mtime": "2018-12-19T22:13:26.966Z",
+      "ctime": "2018-12-19T22:13:26.966Z",
+      "birthtime": "2018-12-19T22:13:26.950Z"
     },
     "878c74b5-34ed-5414-a7e5-4afdb809006a": {
       "id": "878c74b5-34ed-5414-a7e5-4afdb809006a",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e6cef82475a9caf1d1bff854f182765e",
+        "contentDigest": "5103354bc3b48ce6d434790e15d02e59",
         "type": "Directory",
         "description": "Directory \"content\\posts\\31-10-2018--post-2\"",
         "owner": "gatsby-source-filesystem"
@@ -1064,10 +1064,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.820Z",
-      "accessTime": "2018-12-12T20:18:02.820Z",
-      "changeTime": "2018-12-12T20:18:02.820Z",
-      "birthTime": "2018-12-12T20:18:02.803Z",
+      "modifiedTime": "2018-12-19T22:13:27.044Z",
+      "accessTime": "2018-12-19T22:13:27.044Z",
+      "changeTime": "2018-12-19T22:13:27.044Z",
+      "birthTime": "2018-12-19T22:13:27.012Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
       "base": "31-10-2018--post-2",
@@ -1080,18 +1080,18 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 2251799814335314,
-      "atime": "2018-12-12T20:18:02.820Z",
-      "mtime": "2018-12-12T20:18:02.820Z",
-      "ctime": "2018-12-12T20:18:02.820Z",
-      "birthtime": "2018-12-12T20:18:02.803Z"
+      "ino": 2814749767626302,
+      "atime": "2018-12-19T22:13:27.044Z",
+      "mtime": "2018-12-19T22:13:27.044Z",
+      "ctime": "2018-12-19T22:13:27.044Z",
+      "birthtime": "2018-12-19T22:13:27.012Z"
     },
     "9fb52928-729d-568e-b6f6-5cd1c8e03d86": {
       "id": "9fb52928-729d-568e-b6f6-5cd1c8e03d86",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bbe55e3817e60f42d75e7041e5bb1ff8",
+        "contentDigest": "b4b44c92bf4c0e4c18f28878d869fe69",
         "type": "Directory",
         "description": "Directory \"content\\posts\\30-10-2018--hello-world\"",
         "owner": "gatsby-source-filesystem"
@@ -1102,10 +1102,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.787Z",
-      "accessTime": "2018-12-12T20:18:02.787Z",
-      "changeTime": "2018-12-12T20:18:02.787Z",
-      "birthTime": "2018-12-12T20:18:02.778Z",
+      "modifiedTime": "2018-12-19T22:13:26.981Z",
+      "accessTime": "2018-12-19T22:13:26.981Z",
+      "changeTime": "2018-12-19T22:13:26.981Z",
+      "birthTime": "2018-12-19T22:13:26.981Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts",
       "base": "30-10-2018--hello-world",
@@ -1118,18 +1118,18 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1407374884203188,
-      "atime": "2018-12-12T20:18:02.787Z",
-      "mtime": "2018-12-12T20:18:02.787Z",
-      "ctime": "2018-12-12T20:18:02.787Z",
-      "birthtime": "2018-12-12T20:18:02.778Z"
+      "ino": 3940649674468919,
+      "atime": "2018-12-19T22:13:26.981Z",
+      "mtime": "2018-12-19T22:13:26.981Z",
+      "ctime": "2018-12-19T22:13:26.981Z",
+      "birthtime": "2018-12-19T22:13:26.981Z"
     },
     "c11f398a-d119-5945-abb5-a82cf84c72ff": {
       "id": "c11f398a-d119-5945-abb5-a82cf84c72ff",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a217fe2c911f2c09c6ad7dc6841a245f",
+        "contentDigest": "4a9c8e84517feea1837c8e148adb29ef",
         "type": "Directory",
         "description": "Directory \"content\\posts\\03-11-2018--post-5\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1140,10 +1140,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.771Z",
-      "accessTime": "2018-12-12T20:18:02.771Z",
-      "changeTime": "2018-12-12T20:18:02.771Z",
-      "birthTime": "2018-12-12T20:18:02.765Z",
+      "modifiedTime": "2018-12-19T22:13:26.966Z",
+      "accessTime": "2018-12-19T22:13:26.966Z",
+      "changeTime": "2018-12-19T22:13:26.966Z",
+      "birthTime": "2018-12-19T22:13:26.966Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5",
       "base": "images",
@@ -1156,18 +1156,18 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1407374884203063,
-      "atime": "2018-12-12T20:18:02.771Z",
-      "mtime": "2018-12-12T20:18:02.771Z",
-      "ctime": "2018-12-12T20:18:02.771Z",
-      "birthtime": "2018-12-12T20:18:02.765Z"
+      "ino": 5629499534732852,
+      "atime": "2018-12-19T22:13:26.966Z",
+      "mtime": "2018-12-19T22:13:26.966Z",
+      "ctime": "2018-12-19T22:13:26.966Z",
+      "birthtime": "2018-12-19T22:13:26.966Z"
     },
     "255420b2-f801-56cc-9213-2307ec885364": {
       "id": "255420b2-f801-56cc-9213-2307ec885364",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b151aacaf348a75e4b15d4914773e574",
+        "contentDigest": "6069f748781641790dc97c63229068d8",
         "type": "Directory",
         "description": "Directory \"content\\posts\\02-11-2018--post-4\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1178,10 +1178,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.751Z",
-      "accessTime": "2018-12-12T20:18:02.751Z",
-      "changeTime": "2018-12-12T20:18:02.751Z",
-      "birthTime": "2018-12-12T20:18:02.745Z",
+      "modifiedTime": "2018-12-19T22:13:26.934Z",
+      "accessTime": "2018-12-19T22:13:26.934Z",
+      "changeTime": "2018-12-19T22:13:26.934Z",
+      "birthTime": "2018-12-19T22:13:26.919Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4",
       "base": "images",
@@ -1194,18 +1194,18 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1407374884202999,
-      "atime": "2018-12-12T20:18:02.751Z",
-      "mtime": "2018-12-12T20:18:02.751Z",
-      "ctime": "2018-12-12T20:18:02.751Z",
-      "birthtime": "2018-12-12T20:18:02.745Z"
+      "ino": 2533274790915625,
+      "atime": "2018-12-19T22:13:26.934Z",
+      "mtime": "2018-12-19T22:13:26.934Z",
+      "ctime": "2018-12-19T22:13:26.934Z",
+      "birthtime": "2018-12-19T22:13:26.919Z"
     },
     "3cc1ccbf-5c83-5db4-9155-8c198687e26c": {
       "id": "3cc1ccbf-5c83-5db4-9155-8c198687e26c",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8ea27d75a162926fd5154e9de83ad302",
+        "contentDigest": "d4c46a1615914eaa77578d1ab2bfddbd",
         "type": "Directory",
         "description": "Directory \"content\\posts\\31-10-2018--post-2\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1216,10 +1216,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.825Z",
-      "accessTime": "2018-12-12T20:18:02.825Z",
-      "changeTime": "2018-12-12T20:18:02.825Z",
-      "birthTime": "2018-12-12T20:18:02.820Z",
+      "modifiedTime": "2018-12-19T22:13:27.059Z",
+      "accessTime": "2018-12-19T22:13:27.059Z",
+      "changeTime": "2018-12-19T22:13:27.059Z",
+      "birthTime": "2018-12-19T22:13:27.044Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/31-10-2018--post-2",
       "base": "images",
@@ -1232,18 +1232,18 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1407374884203356,
-      "atime": "2018-12-12T20:18:02.825Z",
-      "mtime": "2018-12-12T20:18:02.825Z",
-      "ctime": "2018-12-12T20:18:02.825Z",
-      "birthtime": "2018-12-12T20:18:02.820Z"
+      "ino": 4785074604600896,
+      "atime": "2018-12-19T22:13:27.059Z",
+      "mtime": "2018-12-19T22:13:27.059Z",
+      "ctime": "2018-12-19T22:13:27.059Z",
+      "birthtime": "2018-12-19T22:13:27.044Z"
     },
     "e648ef27-599e-58ad-86db-81616cd8790f": {
       "id": "e648ef27-599e-58ad-86db-81616cd8790f",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3e6c6567340572c769882d75fb67bb20",
+        "contentDigest": "4208d1f427b37c91abfc2ca21e67d310",
         "type": "Directory",
         "description": "Directory \"content\\posts\\01-11-2018--post-3\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1254,10 +1254,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.734Z",
-      "accessTime": "2018-12-12T20:18:02.734Z",
-      "changeTime": "2018-12-12T20:18:02.734Z",
-      "birthTime": "2018-12-12T20:18:02.728Z",
+      "modifiedTime": "2018-12-19T22:13:26.872Z",
+      "accessTime": "2018-12-19T22:13:26.872Z",
+      "changeTime": "2018-12-19T22:13:26.872Z",
+      "birthTime": "2018-12-19T22:13:26.856Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3",
       "base": "images",
@@ -1270,18 +1270,18 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1970324837623780,
-      "atime": "2018-12-12T20:18:02.734Z",
-      "mtime": "2018-12-12T20:18:02.734Z",
-      "ctime": "2018-12-12T20:18:02.734Z",
-      "birthtime": "2018-12-12T20:18:02.728Z"
+      "ino": 5066549581311489,
+      "atime": "2018-12-19T22:13:26.872Z",
+      "mtime": "2018-12-19T22:13:26.872Z",
+      "ctime": "2018-12-19T22:13:26.872Z",
+      "birthtime": "2018-12-19T22:13:26.856Z"
     },
     "c68fffa3-ea2b-52fd-a3bb-b6383285752e": {
       "id": "c68fffa3-ea2b-52fd-a3bb-b6383285752e",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "29c1e739e520e2d96126d80a5f0c70e0",
+        "contentDigest": "67029f99fe9a68281717319555682a8a",
         "type": "Directory",
         "description": "Directory \"content\\posts\\30-10-2018--hello-world\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1292,10 +1292,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-12T20:18:02.795Z",
-      "accessTime": "2018-12-12T20:18:02.795Z",
-      "changeTime": "2018-12-12T20:18:02.795Z",
-      "birthTime": "2018-12-12T20:18:02.787Z",
+      "modifiedTime": "2018-12-19T22:13:26.997Z",
+      "accessTime": "2018-12-19T22:13:26.997Z",
+      "changeTime": "2018-12-19T22:13:26.997Z",
+      "birthTime": "2018-12-19T22:13:26.981Z",
       "root": "C:/",
       "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/30-10-2018--hello-world",
       "base": "images",
@@ -1308,11 +1308,11 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1970324837624543,
-      "atime": "2018-12-12T20:18:02.795Z",
-      "mtime": "2018-12-12T20:18:02.795Z",
-      "ctime": "2018-12-12T20:18:02.795Z",
-      "birthtime": "2018-12-12T20:18:02.787Z"
+      "ino": 4503599627890235,
+      "atime": "2018-12-19T22:13:26.997Z",
+      "mtime": "2018-12-19T22:13:26.997Z",
+      "ctime": "2018-12-19T22:13:26.997Z",
+      "birthtime": "2018-12-19T22:13:26.981Z"
     },
     "e6bbab69-2c10-5865-8b5b-3abf9733a1cd": {
       "id": "e6bbab69-2c10-5865-8b5b-3abf9733a1cd",
@@ -1891,27 +1891,123 @@
       "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
       "fileAbsolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/01-11-2018--post-3/index.md"
     },
-    "SitePage /blog/post-five": {
-      "jsonName": "blog-post-five-add",
-      "internalComponentName": "ComponentBlogPostFive",
-      "path": "/blog/post-five",
-      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "post-five"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
-      "id": "SitePage /blog/post-five",
-      "parent": "SOURCE",
+    "9932b40e-48d4-5f06-a9a4-800523816975": {
+      "id": "9932b40e-48d4-5f06-a9a4-800523816975",
       "children": [],
+      "parent": "___SOURCE___",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "f53a15c5e786f16308ab5c6c2c6b4332",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
+        "contentDigest": "989e08e5aee5483fce6ec7830b4e8c86",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\NTesla.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/images/NTesla.jpg",
+      "relativePath": "03-11-2018--post-5/images/NTesla.jpg",
+      "extension": "jpg",
+      "size": 17033,
+      "prettySize": "17 kB",
+      "modifiedTime": "2018-12-19T13:59:49.334Z",
+      "accessTime": "2018-12-12T20:18:02.770Z",
+      "changeTime": "2018-12-19T13:59:49.335Z",
+      "birthTime": "2018-12-12T20:18:02.769Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/images",
+      "base": "NTesla.jpg",
+      "ext": ".jpg",
+      "name": "NTesla",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1970324837624453,
+      "atime": "2018-12-12T20:18:02.770Z",
+      "mtime": "2018-12-19T13:59:49.334Z",
+      "ctime": "2018-12-19T13:59:49.335Z",
+      "birthtime": "2018-12-12T20:18:02.769Z"
+    },
+    "ddee3bf8-19ec-5b31-85e9-d4bca2dfb6d1": {
+      "id": "ddee3bf8-19ec-5b31-85e9-d4bca2dfb6d1",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dacad8e8f11db822fe62ec8872c82e8a",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\images\\SophieProfil.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/images/SophieProfil.jpg",
+      "relativePath": "02-11-2018--post-4/images/SophieProfil.jpg",
+      "extension": "jpg",
+      "size": 45082,
+      "prettySize": "45.1 kB",
+      "modifiedTime": "2018-12-19T14:01:17.169Z",
+      "accessTime": "2018-12-12T20:18:02.752Z",
+      "changeTime": "2018-12-19T14:01:17.169Z",
+      "birthTime": "2018-12-12T20:18:02.751Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/images",
+      "base": "SophieProfil.jpg",
+      "ext": ".jpg",
+      "name": "SophieProfil",
+      "relativeDirectory": "02-11-2018--post-4\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884203006,
+      "atime": "2018-12-12T20:18:02.752Z",
+      "mtime": "2018-12-19T14:01:17.169Z",
+      "ctime": "2018-12-19T14:01:17.169Z",
+      "birthtime": "2018-12-12T20:18:02.751Z"
+    },
+    "5a49985f-53b7-50bb-a075-9d4df45f2a5b": {
+      "id": "5a49985f-53b7-50bb-a075-9d4df45f2a5b",
+      "children": [],
+      "parent": "c1783f6a-bab6-5e7d-815e-1a5775cd88ae",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/SophieProfil.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "ff2692aaddc4257c2d49c7b377da6ffe",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 4",
+        "date": "2018-11-02",
+        "slug": "post-four",
+        "_PARENT": "c1783f6a-bab6-5e7d-815e-1a5775cd88ae"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/SophieProfil.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/index.md"
+    },
+    "5ab974a1-2475-52b9-9dcc-eb848963224e": {
+      "id": "5ab974a1-2475-52b9-9dcc-eb848963224e",
+      "children": [],
+      "parent": "e6bbab69-2c10-5865-8b5b-3abf9733a1cd",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Nikola Tesla](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Tesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## Tko je Tesla?\n\nNikola Tesla (Smiljan, 10. srpnja 1856. - New York, 7. siječnja 1943.) bio je hrvatski i američki znanstvenik i izumitelj podrijetlom Srbin iz Hrvatske.[1] Rođen u Lici, ali je gotovo cijeli život radio u SAD-u, gdje je i ostvario sve izume. Gimnaziju je pohađao u Gospiću, potom u Rakovcu kraj Karlovca, gdje je maturirao. Na Visoku tehničku školu u Grazu upisao se 1875. Godine 1881. radio je u Središnjem telegrafskom uredu u Budimpešti, a potom u Telefonskoj centrali, u kojoj je načinio niz tehničkih poboljšanja. U jesen 1882. zaposlio se u Parizu u Edisonovoj telefonskoj podružnici. Već je za vrijeme studija upozorio na nedostatke istosmjernoga elektromotora. U Budimpešti je zamislio primjenu višefaznih izmjeničnih struja za ostvarenje okretnoga magnetskoga polja koje bi uzrokovalo vrtnju u elektromotoru. U nastojanju da razvije zamišljeni sustav izmjeničnih struja, otišao je 1884. u SAD, gdje se s preporukom voditelja Edisonova predstavništva u Europi zaposlio kod T. A. Edisona, gdje je iznosio svoje zamisli o proizvodnji i isplativijem prijenosu izmjeničnih struja, ali nije nailazio na razumijevanje. Godine 1885. osnovao je Tesla u New Yorku vlastitu tvrtku Tesla Electric Light and Manufacturing Company za proizvodnju električnih lučnica (elektrolučna svjetiljka), a 1887. tvrtku Tesla Electric Company, s laboratorijem, u kojem je najprije konstruirao elektromotore izmjenične struje. U jesen iste godine prijavio je prve patente o proizvodnji i prijenosu višefaznih izmjeničnih struja i njihovoj primjeni za učinkovit pogon izmjeničnih elektromotora. Tim je izumima pokazao da je za većinu primjena izmjenična struja znatno prikladnija od istosmjerne.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/NTesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nIako mu je bio potreban novac 1912. je odbio primiti Nobelovu nagradu iz fizike jer je tvrdio da njegov suprimatelj Thomas Alva Edison nije pravi znanstvenik. Zadnje godine svog života proveo je hraneći golubove i živio je uglavnom od godišnjeg honorara iz domovine. Imao je napredni zametak fobije, ali istovremeno je bio briljantan znanstvenik koji je imao dara da praktično dokaže svoje hipoteze. Njegove špekulacije o ostvarenju komunikacije s drugim planetima, izjave da može razdijeliti Zemlju poput jabuke, kao i njegova tvrdnja da je izmislio smrtonosnu zraku koja može uništiti 10 tisuća aviona na udaljenosti od 400 km nailazile su na podsmijehe i kritike. Unatoč tomu Tesla se danas smatra jednim od najplodnijih genija u elektrotehnici. Njegova velika zasluga je uvođenje izmjenične struje u široku uporabu. Teslini izumi zasnovani na izmjeničnoj struji postali su temelj cijelom daljnjem razvoju elektrotehnike. Ostvario je oko tisuću pronalazaka i patenata - trofazni sustav za prijenos električne snage, generator i transformator za struje visoke frekvencije (Tesline struje) i drugo. Bio je i jedan od pionira radio-tehnike: otkrio je sustav za bežično upravljanje i davanje znakova na daljinu, pronašao je nov sustav osvjetljenja, konstruirao je visokofrekventne alternatore kao osnovu emisijskih radio-stanica, proizveo je neprigušene elektromagnetske valove, otkrio je i patentirao princip rezonancije za radio-veze, izložio ideju o međuplanetarnim telekomunikacijama pomoću ultrakratkih valova, a zamislio je u cjelini radarski sustav. Objavio je radove iz fizike u kojima je iznosio originalne ideje koje su se kasnije ostvarile\n\nPreminuo je u New Yorku 7. siječnja 1943. u 87-oj godini života. Nakon njegove smrti kovčezi u kojima se nalaze Teslini papiri, diplome i druge počasti, kao i njegove laboratorijske bilješke zapečaćeni su. Neko vrijeme nalazili su se u vlasništvu Teslinog rođaka i jedinog nasljednika Save Kosanovića. On je kasnije svoje tako stečeno nasljedstvo poklonio gradu Beogradu, a u svrhu osnivanja muzeja Nikole Tesle.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "70a21b9df6b44ef5409bf6514b86cc20",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 5",
+        "date": "2018-11-03",
+        "slug": "post-five",
+        "_PARENT": "e6bbab69-2c10-5865-8b5b-3abf9733a1cd"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Nikola Tesla](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Tesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## Tko je Tesla?\n\nNikola Tesla (Smiljan, 10. srpnja 1856. - New York, 7. siječnja 1943.) bio je hrvatski i američki znanstvenik i izumitelj podrijetlom Srbin iz Hrvatske.[1] Rođen u Lici, ali je gotovo cijeli život radio u SAD-u, gdje je i ostvario sve izume. Gimnaziju je pohađao u Gospiću, potom u Rakovcu kraj Karlovca, gdje je maturirao. Na Visoku tehničku školu u Grazu upisao se 1875. Godine 1881. radio je u Središnjem telegrafskom uredu u Budimpešti, a potom u Telefonskoj centrali, u kojoj je načinio niz tehničkih poboljšanja. U jesen 1882. zaposlio se u Parizu u Edisonovoj telefonskoj podružnici. Već je za vrijeme studija upozorio na nedostatke istosmjernoga elektromotora. U Budimpešti je zamislio primjenu višefaznih izmjeničnih struja za ostvarenje okretnoga magnetskoga polja koje bi uzrokovalo vrtnju u elektromotoru. U nastojanju da razvije zamišljeni sustav izmjeničnih struja, otišao je 1884. u SAD, gdje se s preporukom voditelja Edisonova predstavništva u Europi zaposlio kod T. A. Edisona, gdje je iznosio svoje zamisli o proizvodnji i isplativijem prijenosu izmjeničnih struja, ali nije nailazio na razumijevanje. Godine 1885. osnovao je Tesla u New Yorku vlastitu tvrtku Tesla Electric Light and Manufacturing Company za proizvodnju električnih lučnica (elektrolučna svjetiljka), a 1887. tvrtku Tesla Electric Company, s laboratorijem, u kojem je najprije konstruirao elektromotore izmjenične struje. U jesen iste godine prijavio je prve patente o proizvodnji i prijenosu višefaznih izmjeničnih struja i njihovoj primjeni za učinkovit pogon izmjeničnih elektromotora. Tim je izumima pokazao da je za većinu primjena izmjenična struja znatno prikladnija od istosmjerne.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/NTesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nIako mu je bio potreban novac 1912. je odbio primiti Nobelovu nagradu iz fizike jer je tvrdio da njegov suprimatelj Thomas Alva Edison nije pravi znanstvenik. Zadnje godine svog života proveo je hraneći golubove i živio je uglavnom od godišnjeg honorara iz domovine. Imao je napredni zametak fobije, ali istovremeno je bio briljantan znanstvenik koji je imao dara da praktično dokaže svoje hipoteze. Njegove špekulacije o ostvarenju komunikacije s drugim planetima, izjave da može razdijeliti Zemlju poput jabuke, kao i njegova tvrdnja da je izmislio smrtonosnu zraku koja može uništiti 10 tisuća aviona na udaljenosti od 400 km nailazile su na podsmijehe i kritike. Unatoč tomu Tesla se danas smatra jednim od najplodnijih genija u elektrotehnici. Njegova velika zasluga je uvođenje izmjenične struje u široku uporabu. Teslini izumi zasnovani na izmjeničnoj struji postali su temelj cijelom daljnjem razvoju elektrotehnike. Ostvario je oko tisuću pronalazaka i patenata - trofazni sustav za prijenos električne snage, generator i transformator za struje visoke frekvencije (Tesline struje) i drugo. Bio je i jedan od pionira radio-tehnike: otkrio je sustav za bežično upravljanje i davanje znakova na daljinu, pronašao je nov sustav osvjetljenja, konstruirao je visokofrekventne alternatore kao osnovu emisijskih radio-stanica, proizveo je neprigušene elektromagnetske valove, otkrio je i patentirao princip rezonancije za radio-veze, izložio ideju o međuplanetarnim telekomunikacijama pomoću ultrakratkih valova, a zamislio je u cjelini radarski sustav. Objavio je radove iz fizike u kojima je iznosio originalne ideje koje su se kasnije ostvarile\n\nPreminuo je u New Yorku 7. siječnja 1943. u 87-oj godini života. Nakon njegove smrti kovčezi u kojima se nalaze Teslini papiri, diplome i druge počasti, kao i njegove laboratorijske bilješke zapečaćeni su. Neko vrijeme nalazili su se u vlasništvu Teslinog rođaka i jedinog nasljednika Save Kosanovića. On je kasnije svoje tako stečeno nasljedstvo poklonio gradu Beogradu, a u svrhu osnivanja muzeja Nikole Tesle.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/index.md"
     },
     "SitePage /blog/post-one": {
       "jsonName": "blog-post-one-638",
@@ -1957,6 +2053,28 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /blog/post-three": {
+      "jsonName": "blog-post-three-0ca",
+      "internalComponentName": "ComponentBlogPostThree",
+      "path": "/blog/post-three",
+      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-three"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-three",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6aab08754d2cee1d7c2979b2caa01030",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /blog/post-four": {
       "jsonName": "blog-post-four-acd",
       "internalComponentName": "ComponentBlogPostFour",
@@ -1979,24 +2097,24 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /blog/post-three": {
-      "jsonName": "blog-post-three-0ca",
-      "internalComponentName": "ComponentBlogPostThree",
-      "path": "/blog/post-three",
+    "SitePage /blog/post-five": {
+      "jsonName": "blog-post-five-add",
+      "internalComponentName": "ComponentBlogPostFive",
+      "path": "/blog/post-five",
       "component": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "slug": "post-three"
+        "slug": "post-five"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
-      "id": "SitePage /blog/post-three",
+      "id": "SitePage /blog/post-five",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6aab08754d2cee1d7c2979b2caa01030",
+        "contentDigest": "f53a15c5e786f16308ab5c6c2c6b4332",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -2160,146 +2278,6 @@
         "description": "d9c78cbd-4bd9-5fb4-82ae-0e2a65ac1290",
         "owner": "internal-data-bridge"
       }
-    },
-    "SitePage /blog/null": {
-      "jsonName": "blog-null-65f",
-      "internalComponentName": "ComponentBlogNull",
-      "path": "/blog/null",
-      "component": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": null
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/PC/Desktop/Moje/hciblog/src/templates/blog-post.js",
-      "id": "SitePage /blog/null",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "35ce4d5f1df35721acdbc6a61d3ada7c",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "9932b40e-48d4-5f06-a9a4-800523816975": {
-      "id": "9932b40e-48d4-5f06-a9a4-800523816975",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "989e08e5aee5483fce6ec7830b4e8c86",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\NTesla.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/images/NTesla.jpg",
-      "relativePath": "03-11-2018--post-5/images/NTesla.jpg",
-      "extension": "jpg",
-      "size": 17033,
-      "prettySize": "17 kB",
-      "modifiedTime": "2018-12-19T13:59:49.334Z",
-      "accessTime": "2018-12-12T20:18:02.770Z",
-      "changeTime": "2018-12-19T13:59:49.335Z",
-      "birthTime": "2018-12-12T20:18:02.769Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/images",
-      "base": "NTesla.jpg",
-      "ext": ".jpg",
-      "name": "NTesla",
-      "relativeDirectory": "03-11-2018--post-5\\images",
-      "dev": -256696446,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 1970324837624453,
-      "atime": "2018-12-12T20:18:02.770Z",
-      "mtime": "2018-12-19T13:59:49.334Z",
-      "ctime": "2018-12-19T13:59:49.335Z",
-      "birthtime": "2018-12-12T20:18:02.769Z"
-    },
-    "ddee3bf8-19ec-5b31-85e9-d4bca2dfb6d1": {
-      "id": "ddee3bf8-19ec-5b31-85e9-d4bca2dfb6d1",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "dacad8e8f11db822fe62ec8872c82e8a",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content\\posts\\02-11-2018--post-4\\images\\SophieProfil.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/images/SophieProfil.jpg",
-      "relativePath": "02-11-2018--post-4/images/SophieProfil.jpg",
-      "extension": "jpg",
-      "size": 45082,
-      "prettySize": "45.1 kB",
-      "modifiedTime": "2018-12-19T14:01:17.169Z",
-      "accessTime": "2018-12-12T20:18:02.752Z",
-      "changeTime": "2018-12-19T14:01:17.169Z",
-      "birthTime": "2018-12-12T20:18:02.751Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/images",
-      "base": "SophieProfil.jpg",
-      "ext": ".jpg",
-      "name": "SophieProfil",
-      "relativeDirectory": "02-11-2018--post-4\\images",
-      "dev": -256696446,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 1407374884203006,
-      "atime": "2018-12-12T20:18:02.752Z",
-      "mtime": "2018-12-19T14:01:17.169Z",
-      "ctime": "2018-12-19T14:01:17.169Z",
-      "birthtime": "2018-12-12T20:18:02.751Z"
-    },
-    "5a49985f-53b7-50bb-a075-9d4df45f2a5b": {
-      "id": "5a49985f-53b7-50bb-a075-9d4df45f2a5b",
-      "children": [],
-      "parent": "c1783f6a-bab6-5e7d-815e-1a5775cd88ae",
-      "internal": {
-        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/SophieProfil.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "ff2692aaddc4257c2d49c7b377da6ffe",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Post 4",
-        "date": "2018-11-02",
-        "slug": "post-four",
-        "_PARENT": "c1783f6a-bab6-5e7d-815e-1a5775cd88ae"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/SophieProfil.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
-      "fileAbsolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/02-11-2018--post-4/index.md"
-    },
-    "5ab974a1-2475-52b9-9dcc-eb848963224e": {
-      "id": "5ab974a1-2475-52b9-9dcc-eb848963224e",
-      "children": [],
-      "parent": "e6bbab69-2c10-5865-8b5b-3abf9733a1cd",
-      "internal": {
-        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Nikola Tesla](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Tesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## Tko je Tesla?\n\nNikola Tesla (Smiljan, 10. srpnja 1856. - New York, 7. siječnja 1943.) bio je hrvatski i američki znanstvenik i izumitelj podrijetlom Srbin iz Hrvatske.[1] Rođen u Lici, ali je gotovo cijeli život radio u SAD-u, gdje je i ostvario sve izume. Gimnaziju je pohađao u Gospiću, potom u Rakovcu kraj Karlovca, gdje je maturirao. Na Visoku tehničku školu u Grazu upisao se 1875. Godine 1881. radio je u Središnjem telegrafskom uredu u Budimpešti, a potom u Telefonskoj centrali, u kojoj je načinio niz tehničkih poboljšanja. U jesen 1882. zaposlio se u Parizu u Edisonovoj telefonskoj podružnici. Već je za vrijeme studija upozorio na nedostatke istosmjernoga elektromotora. U Budimpešti je zamislio primjenu višefaznih izmjeničnih struja za ostvarenje okretnoga magnetskoga polja koje bi uzrokovalo vrtnju u elektromotoru. U nastojanju da razvije zamišljeni sustav izmjeničnih struja, otišao je 1884. u SAD, gdje se s preporukom voditelja Edisonova predstavništva u Europi zaposlio kod T. A. Edisona, gdje je iznosio svoje zamisli o proizvodnji i isplativijem prijenosu izmjeničnih struja, ali nije nailazio na razumijevanje. Godine 1885. osnovao je Tesla u New Yorku vlastitu tvrtku Tesla Electric Light and Manufacturing Company za proizvodnju električnih lučnica (elektrolučna svjetiljka), a 1887. tvrtku Tesla Electric Company, s laboratorijem, u kojem je najprije konstruirao elektromotore izmjenične struje. U jesen iste godine prijavio je prve patente o proizvodnji i prijenosu višefaznih izmjeničnih struja i njihovoj primjeni za učinkovit pogon izmjeničnih elektromotora. Tim je izumima pokazao da je za većinu primjena izmjenična struja znatno prikladnija od istosmjerne.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/NTesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nIako mu je bio potreban novac 1912. je odbio primiti Nobelovu nagradu iz fizike jer je tvrdio da njegov suprimatelj Thomas Alva Edison nije pravi znanstvenik. Zadnje godine svog života proveo je hraneći golubove i živio je uglavnom od godišnjeg honorara iz domovine. Imao je napredni zametak fobije, ali istovremeno je bio briljantan znanstvenik koji je imao dara da praktično dokaže svoje hipoteze. Njegove špekulacije o ostvarenju komunikacije s drugim planetima, izjave da može razdijeliti Zemlju poput jabuke, kao i njegova tvrdnja da je izmislio smrtonosnu zraku koja može uništiti 10 tisuća aviona na udaljenosti od 400 km nailazile su na podsmijehe i kritike. Unatoč tomu Tesla se danas smatra jednim od najplodnijih genija u elektrotehnici. Njegova velika zasluga je uvođenje izmjenične struje u široku uporabu. Teslini izumi zasnovani na izmjeničnoj struji postali su temelj cijelom daljnjem razvoju elektrotehnike. Ostvario je oko tisuću pronalazaka i patenata - trofazni sustav za prijenos električne snage, generator i transformator za struje visoke frekvencije (Tesline struje) i drugo. Bio je i jedan od pionira radio-tehnike: otkrio je sustav za bežično upravljanje i davanje znakova na daljinu, pronašao je nov sustav osvjetljenja, konstruirao je visokofrekventne alternatore kao osnovu emisijskih radio-stanica, proizveo je neprigušene elektromagnetske valove, otkrio je i patentirao princip rezonancije za radio-veze, izložio ideju o međuplanetarnim telekomunikacijama pomoću ultrakratkih valova, a zamislio je u cjelini radarski sustav. Objavio je radove iz fizike u kojima je iznosio originalne ideje koje su se kasnije ostvarile\n\nPreminuo je u New Yorku 7. siječnja 1943. u 87-oj godini života. Nakon njegove smrti kovčezi u kojima se nalaze Teslini papiri, diplome i druge počasti, kao i njegove laboratorijske bilješke zapečaćeni su. Neko vrijeme nalazili su se u vlasništvu Teslinog rođaka i jedinog nasljednika Save Kosanovića. On je kasnije svoje tako stečeno nasljedstvo poklonio gradu Beogradu, a u svrhu osnivanja muzeja Nikole Tesle.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "70a21b9df6b44ef5409bf6514b86cc20",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Post 5",
-        "date": "2018-11-03",
-        "slug": "post-five",
-        "_PARENT": "e6bbab69-2c10-5865-8b5b-3abf9733a1cd"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Nikola Tesla](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Tesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## Tko je Tesla?\n\nNikola Tesla (Smiljan, 10. srpnja 1856. - New York, 7. siječnja 1943.) bio je hrvatski i američki znanstvenik i izumitelj podrijetlom Srbin iz Hrvatske.[1] Rođen u Lici, ali je gotovo cijeli život radio u SAD-u, gdje je i ostvario sve izume. Gimnaziju je pohađao u Gospiću, potom u Rakovcu kraj Karlovca, gdje je maturirao. Na Visoku tehničku školu u Grazu upisao se 1875. Godine 1881. radio je u Središnjem telegrafskom uredu u Budimpešti, a potom u Telefonskoj centrali, u kojoj je načinio niz tehničkih poboljšanja. U jesen 1882. zaposlio se u Parizu u Edisonovoj telefonskoj podružnici. Već je za vrijeme studija upozorio na nedostatke istosmjernoga elektromotora. U Budimpešti je zamislio primjenu višefaznih izmjeničnih struja za ostvarenje okretnoga magnetskoga polja koje bi uzrokovalo vrtnju u elektromotoru. U nastojanju da razvije zamišljeni sustav izmjeničnih struja, otišao je 1884. u SAD, gdje se s preporukom voditelja Edisonova predstavništva u Europi zaposlio kod T. A. Edisona, gdje je iznosio svoje zamisli o proizvodnji i isplativijem prijenosu izmjeničnih struja, ali nije nailazio na razumijevanje. Godine 1885. osnovao je Tesla u New Yorku vlastitu tvrtku Tesla Electric Light and Manufacturing Company za proizvodnju električnih lučnica (elektrolučna svjetiljka), a 1887. tvrtku Tesla Electric Company, s laboratorijem, u kojem je najprije konstruirao elektromotore izmjenične struje. U jesen iste godine prijavio je prve patente o proizvodnji i prijenosu višefaznih izmjeničnih struja i njihovoj primjeni za učinkovit pogon izmjeničnih elektromotora. Tim je izumima pokazao da je za većinu primjena izmjenična struja znatno prikladnija od istosmjerne.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/NTesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nIako mu je bio potreban novac 1912. je odbio primiti Nobelovu nagradu iz fizike jer je tvrdio da njegov suprimatelj Thomas Alva Edison nije pravi znanstvenik. Zadnje godine svog života proveo je hraneći golubove i živio je uglavnom od godišnjeg honorara iz domovine. Imao je napredni zametak fobije, ali istovremeno je bio briljantan znanstvenik koji je imao dara da praktično dokaže svoje hipoteze. Njegove špekulacije o ostvarenju komunikacije s drugim planetima, izjave da može razdijeliti Zemlju poput jabuke, kao i njegova tvrdnja da je izmislio smrtonosnu zraku koja može uništiti 10 tisuća aviona na udaljenosti od 400 km nailazile su na podsmijehe i kritike. Unatoč tomu Tesla se danas smatra jednim od najplodnijih genija u elektrotehnici. Njegova velika zasluga je uvođenje izmjenične struje u široku uporabu. Teslini izumi zasnovani na izmjeničnoj struji postali su temelj cijelom daljnjem razvoju elektrotehnike. Ostvario je oko tisuću pronalazaka i patenata - trofazni sustav za prijenos električne snage, generator i transformator za struje visoke frekvencije (Tesline struje) i drugo. Bio je i jedan od pionira radio-tehnike: otkrio je sustav za bežično upravljanje i davanje znakova na daljinu, pronašao je nov sustav osvjetljenja, konstruirao je visokofrekventne alternatore kao osnovu emisijskih radio-stanica, proizveo je neprigušene elektromagnetske valove, otkrio je i patentirao princip rezonancije za radio-veze, izložio ideju o međuplanetarnim telekomunikacijama pomoću ultrakratkih valova, a zamislio je u cjelini radarski sustav. Objavio je radove iz fizike u kojima je iznosio originalne ideje koje su se kasnije ostvarile\n\nPreminuo je u New Yorku 7. siječnja 1943. u 87-oj godini života. Nakon njegove smrti kovčezi u kojima se nalaze Teslini papiri, diplome i druge počasti, kao i njegove laboratorijske bilješke zapečaćeni su. Neko vrijeme nalazili su se u vlasništvu Teslinog rođaka i jedinog nasljednika Save Kosanovića. On je kasnije svoje tako stečeno nasljedstvo poklonio gradu Beogradu, a u svrhu osnivanja muzeja Nikole Tesle.\n",
-      "fileAbsolutePath": "C:/Users/PC/Desktop/Moje/hciblog/content/posts/03-11-2018--post-5/index.md"
     }
   },
   "status": {

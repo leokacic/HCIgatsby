@@ -1,5 +1,5 @@
 import React from "react";
-import SiteContainer from "../SiteContainer";
+import SiteContainerBlog from "../SiteContainerBlog";
 import Main from "../Main";
 import Header from "../Header";
 import Footer from "../Footer";
@@ -7,9 +7,9 @@ import Footer from "../Footer";
 import _ from "../../styles/index.css";
 
 export default ({ children }) => (
-  <SiteContainer>
+  <SiteContainerBlog>
     <Header />
     <Main>{children}</Main>
     <Footer />
-  </SiteContainer>
+  </SiteContainerBlog>
 );
